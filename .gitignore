@@ -14,4 +14,4 @@ Temp
 *.zip
 obj/Debug
 build
-attell.userprefs
+*.userprefs
